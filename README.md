@@ -18,4 +18,3 @@
  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   </div><br/>
 
-Estudante de Análise e Desenvolvimento de Sistemas, em busca de uma oportunidade como desenvolvedor júnior ou estagiário. Apaixonado por tecnologia e sempre pronto para aprender e enfrentar novos desafios.
