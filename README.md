@@ -41,10 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GabrielNunesPereira/GabrielNunesPereira/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Social Media</h2>
 
 ###
