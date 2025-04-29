@@ -1,6 +1,4 @@
-
-
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -8,7 +6,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="center">Techs</h2>
 
 ###
 
@@ -32,7 +30,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="center">Stats</h2>
 
 ###
 
@@ -47,7 +45,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="center">Social Media</h2>
 
 ###
 
