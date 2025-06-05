@@ -1,4 +1,8 @@
-<h2 align="left">Gabriel Nunes</h2>
+<h1 align="left">Gabriel Nunes</h1>
+
+###
+
+<h2 align="left">Desenvolvedor back-end</h2>
 
 ###
 
@@ -25,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
 ###
@@ -37,11 +43,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GabrielNunesPereira/GabrielNunesPereira/output/snake.svg" alt="Snake animation" />
 
 ###
