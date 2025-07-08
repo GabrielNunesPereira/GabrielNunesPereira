@@ -7,8 +7,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielNunesPereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielNunesPereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielNunesPereira&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false&disable_animations=false&hide_border=false&title_color=C084FC&text_color=E5E7EB&bg_color=1E1E2E&icon_color=8B5CF6&border_color=4B5563" height="150" alt="GitHub Stats" />
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNunesPereira&layout=compact&langs_count=10&hide_border=false&title_color=C084FC&text_color=E5E7EB&bg_color=1E1E2E&border_color=4B5563" height="150" alt="Top Languages" />
+
 </div>
 
 ###
